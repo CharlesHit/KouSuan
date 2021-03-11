@@ -1,0 +1,9 @@
+ver 1.4
+
+1. When the result is negative, printed a negative sign on the head
+2. Supported vertical printing
+3. Added a welcome banner
+
+TODO:
+
+1. implemented a faster string parser to evaluate the result
